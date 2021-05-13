@@ -7,14 +7,14 @@ This project aims to analyze customer data from [Arvato](https://www.bertelsmann
 
 ### Deployment
 
-All the necessary libraries to run the code were already available in the Anaconda distribution of Python and are incorporated in the Jupyter notebook apart from xgboost which can be installed via ```pip install xgboost```.
+All the necessary libraries to run the code were already available in the Anaconda distribution of Python and are incorporated in the Jupyter notebook apart from xgboost which can be installed via ```pip install lightgbm```.
 
 This script was written using Python version 3.*.
 
 ### Files & Data
 
-- The jupyter notebook Arvato Project Workbook.ipynb contains the details of the analysis.
-- Input data is licensed by Arvato and hence I cannot provide it here. The data consists of:
+1. The jupyter notebook Arvato Project Workbook.ipynb contains the details of the analysis.
+2. Input data is licensed by Arvato and hence I cannot provide it here. The data consists of:
 * demographics data for the general population of Germany
 * demographics data for customers of the company
 * demographics data for individuals who were targets of a marketing campaign 
